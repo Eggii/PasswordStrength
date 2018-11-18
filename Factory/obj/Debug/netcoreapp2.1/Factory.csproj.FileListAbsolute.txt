@@ -1,0 +1,12 @@
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\bin\Debug\netcoreapp2.1\Factory.deps.json
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\bin\Debug\netcoreapp2.1\Factory.dll
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\bin\Debug\netcoreapp2.1\Factory.pdb
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\bin\Debug\netcoreapp2.1\PasswordStrength.dll
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\bin\Debug\netcoreapp2.1\PasswordStrength.pdb
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.csprojAssemblyReference.cache
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfoInputs.cache
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfo.cs
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.csproj.CopyComplete
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.dll
+C:\Users\Eggii\source\repos\PasswordStrength\Factory\obj\Debug\netcoreapp2.1\Factory.pdb
